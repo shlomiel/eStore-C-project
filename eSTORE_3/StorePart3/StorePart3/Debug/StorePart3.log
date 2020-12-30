@@ -1,0 +1,31 @@
+﻿  product.cpp
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\adress.h(19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\user.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Buyer.cpp
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\adress.h(19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\user.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\adress.h(19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\user.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  UserGenerator.cpp
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\adress.h(19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\user.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Store.cpp
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\adress.h(19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\user.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\store.cpp(158): warning C4101: 'input': unreferenced local variable
+  Seller.cpp
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\adress.h(19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\user.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Order.cpp
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\adress.h(19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\user.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  FEEDBACK.cpp
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\adress.h(19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\user.h(18): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+c:\users\shlom\documents\visual studio 2015\projects\storepart3\storepart3\array.h(46): warning C4717: 'Array<User *>::Array<User *>': recursive on all control paths, function will cause runtime stack overflow
+  StorePart3.vcxproj -> c:\users\shlom\documents\visual studio 2015\Projects\StorePart3\Debug\StorePart3.exe
+  StorePart3.vcxproj -> c:\users\shlom\documents\visual studio 2015\Projects\StorePart3\Debug\StorePart3.pdb (Full PDB)
